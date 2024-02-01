@@ -1,5 +1,5 @@
 # Applied Machine Learning - MLJourneyClassifier
-Hey! Here you can find the three projects implemented by Lorine Gao and Alina Tan.
+Hey! Here you can find the three projects implemented by Lorine Gao, Alina Tan, and Yiran Shi.
 
 ## Overview
 MLJourneyClassifier represents a comprehensive exploration of machine learning techniques, building algorithms from scratch, from foundational algorithms like k-Nearest Neighbors (KNN) and Decision Trees (DT), Logistic Regression and Multiple Regression to advanced neural network models including Multi-Layer Perceptrons (MLP) and Convolutional Neural Networks (CNNs). Spanning three projects, this project delves into classification tasks across diverse datasets, showcasing the power of ML and AI in solving complex problems with varying degrees of sophistication.
